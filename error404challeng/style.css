@@ -1,0 +1,19 @@
+.imagenyparrafo{
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+.parrafo{
+    font-family: monospace;
+    margin: 150px;
+    
+}
+ 
+.imagen{
+    height: 600px;
+    width: 700px;
+}
+.boton{
+    border-radius: 50%;
+}
